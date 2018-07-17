@@ -1,0 +1,20 @@
+ {% extends 'base.html' %}
+{% block mainbody %}
+     {%  for i in experts %}
+        <div style=" margin-top: 100px;width: 60%;margin-left: 20%;height: 270px;">
+            <div style="display: flex">
+                <img src="{{ i.img }}" width="200" height="200" style="border-radius: 100px;margin-left: 15%">
+                <div>
+                    <div style="margin-top: 60px;margin-left: 5%;width: 60%;text-align: center"><h2>{{ i.name }}</h2></div>
+                    <div style="font-size: 14px;color: #333;margin-top: 20px;text-align: center;margin-left: 30px;width: 60%;">{{ i.introduce }}</div>
+                </div>
+
+            </div>
+            <div style="height: 30px;border-bottom: 1px solid #f0f0f0;width: 80%;margin-left: 10%"></div>
+        </div>
+         <!-------可参考资料 论文等------->
+         <div style="width:50%;height: 200px;border:1px solid yellowgreen;margin-left: 25%">
+
+         </div>
+    {% endfor %}
+ {% endblock %}

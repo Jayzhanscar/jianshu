@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8948c2f-8752-4de7-a874-fc3f5f8b4c7f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1_avz6DkP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/user/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/simditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/许巍_LSOERyu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/Introduce/jq22.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1517799219585.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/remen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/mqtthelp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/backend/bootbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/topic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/xihuan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static/img/111_cHOjQun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/uploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/lingyu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user/usercenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static/img/111_dEgmquY.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/celery_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/topic/tuijian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/hotkeys.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/lingyu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/backend/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static/img/dingyue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/celue_1RR8XxY.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1517799219585_EsHB8oP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/topic/topic_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/show/luntan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/show/jinzhan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content/expert/expert_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/more_unfold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/login/login2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/filelog.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/uploader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/nv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/nan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/hg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/less-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/hg_1HjD1eA.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/红包2_d273VQL.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/shanchu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1_5jzOGQi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1517799219585_fleoFcM.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1519809133406.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content/publish.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/xxh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/lutian.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ContentApp/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/红包2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/celery_app/mail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/111_pzNvES5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content/expert/expert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/lunbo/ssuo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content/luntan/article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/more_unfold-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/celue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static/img/1517799219585.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/topic/topic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/fenxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/111.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/celue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/leibi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/许巍_wrizjVx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/bg_fdtJwGL.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static/img/WX20180115-1902452x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/mongohelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/111_PbQTnHS.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/simditor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/guina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/fenxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static/img/111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ static/img/1517799219585.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content/article_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/leibi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/hg_noJrgwl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topic/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/1.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/xuexi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/muxiao.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/xiaoxi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/gerenguanzhu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/publish/simditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/许巍_8ryunoi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/user/zhiding.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/publish/module.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/111_T2S3nn6.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/wzz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content/setting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/poo_jrpJStT.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/111_keTsMjB.jpeg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/content.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/rightalign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/es-carousel-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-black-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/index6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/banner-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/icon-twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/icon-box-error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/border-ul-li.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/chrome.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/shadow-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/part-item-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/boy1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/vimeo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/bg/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/team1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/banner-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-single3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/flickr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-arrow-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/blogger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/portfolio2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-red-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/internet_link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/icon-box-notice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/jade.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/pattern-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/banner-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/vimeo-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/folder-open_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/portfolio6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/lastfm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-famfamfam-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/skype.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/bg/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-gray-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/responsive-illustrations.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/sharethis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/nav-alt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/stumbleupon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/portfolio3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ico-dark-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_rounded/Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/glare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/contentPatternBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/apple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_rounded/contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/bg/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/icon-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/javascript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/team2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/design-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/contentPatternRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/s-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/forrst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/team3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/part-item-hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/icon-box-success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/post-sub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/base/rs-plugin/jquery.themepunch.revolution.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/design-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/Business_man_standing_with_arms_crossed_smiling_and_happy..jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_square/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/banner-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/portfolio4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/digg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/border-item.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/bg/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page2-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/video_link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/blog/post1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/dribbble.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/li-marker.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/youtube-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/index7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/slideimg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/es-carousel-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ico-formats.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ico-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/deviantart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/sitemap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/transparent-dark2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/tail-nav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/top-icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/team4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/sidebar-right.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/link1_marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/price-list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ver_separator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/wordpress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/top-icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/accordion-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/slide-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/banner-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/man6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/index4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/lap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/blog/post3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/button-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_square/Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/tumblr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-default-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/blog/post2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/folder-closed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/camera-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/tooltip-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/index5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-single1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ico-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/top-icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/leftloweralign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/date.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/girl2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z_user/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/border-item.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/man4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/scaffolding.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/aol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/mask-hexagon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/nav-li-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/horizontal2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/tail-search.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/icon-facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/googleplus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/slide-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/menu_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/accordion-open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/base-css.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/contentPatternLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/single-blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/blue_tr_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/horizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/u.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/contentPatternTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/ie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ico-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-dash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/s-last.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/column-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/banner-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/mark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/qoute.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-single2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-check-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/marker-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-default.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/price.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/girl4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/sidebar-left.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/inclined.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/firefox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/bird-small-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/tooltip-30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/list-star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/bg/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/es-carousel-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/6 - Copy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/bird-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/portfolio1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/slide-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/portfolio/port-sm-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/tooltip-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/bg/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/icon-box-info.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/light/pattern6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-famfamfam.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/social-sprite-team-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/treeview-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/dark_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/comments-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/facebook/Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/tail-nav.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/300x300/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/pattern-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_square/Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/6---Copy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ico-dark-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/components.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/default/sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/base/rs-plugin/jquery.themepunch.plugins.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/top-icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/totop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/newsvine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/p6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/rs-slider/slides/rightupperalign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/toggle-down-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/patterns/dark/pattern8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/icons/folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/es-carousel-img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/border-ul-li.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/social_icons/icon-skype.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/blockquote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/page1-img12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/btn_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/base/service.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/ico-dark-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/baseImg/prettyphoto/light_rounded/Descr.WD3" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContentApp/urls.py" afterPath="$PROJECT_DIR$/ContentApp/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/content/introduce.html" afterPath="$PROJECT_DIR$/templates/content/introduce.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z_user/urls.py" afterPath="$PROJECT_DIR$/z_user/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GpApp/urls.py" afterPath="$PROJECT_DIR$/GpApp/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/user/login.py" afterPath="$PROJECT_DIR$/model/user/login.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ContentApp/migrations/__init__.py" afterPath="$PROJECT_DIR$/api/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContentApp/views.py" afterPath="$PROJECT_DIR$/ContentApp/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/common.py" afterPath="$PROJECT_DIR$/conf/common.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z_user/views.py" afterPath="$PROJECT_DIR$/z_user/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/debug.log" afterPath="$PROJECT_DIR$/log/debug.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContentApp/tests.py" afterPath="$PROJECT_DIR$/ContentApp/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/user/login.html" afterPath="$PROJECT_DIR$/templates/user/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContentApp/apps.py" afterPath="$PROJECT_DIR$/ContentApp/apps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContentApp/admin.py" afterPath="$PROJECT_DIR$/ContentApp/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContentApp/models.py" afterPath="$PROJECT_DIR$/ContentApp/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GpApp/settings.py" afterPath="$PROJECT_DIR$/GpApp/settings.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GG$tests__1_.coverage" NAME="tests (1) Coverage Results" MODIFIED="1521499888085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ContentApp" />
+    <SUITE FILE_PATH="coverage/GG$gj.coverage" NAME="gj Coverage Results" MODIFIED="1526841091543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ContentApp" />
+    <SUITE FILE_PATH="coverage/GG$mongohelper.coverage" NAME="mongohelper Coverage Results" MODIFIED="1518293483325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/GG$manage.coverage" NAME="manage Coverage Results" MODIFIED="1521577190855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GG$apps.coverage" NAME="apps Coverage Results" MODIFIED="1522722852048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/topic" />
+    <SUITE FILE_PATH="coverage/GG$mail.coverage" NAME="mail Coverage Results" MODIFIED="1517915886450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_app" />
+    <SUITE FILE_PATH="coverage/GG$tests.coverage" NAME="tests Coverage Results" MODIFIED="1519634477565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="GG" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ContentApp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+              <folding>
+                <element signature="e#24#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ContentApp/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gj.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ContentApp/gj.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mongohelper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/mongohelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ContentApp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2703">
+              <caret line="175" column="8" lean-forward="false" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csrf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../virEnv/GPapp/lib/python3.4/site-packages/django/views/decorators/csrf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="52" column="7" lean-forward="false" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GpApp/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3672">
+              <caret line="217" column="22" lean-forward="false" selection-start-line="217" selection-start-column="22" selection-end-line="217" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../full/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ContentApp/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bottom</find>
+      <find>index</find>
+      <find>kombu</find>
+      <find>i</find>
+      <find>i.</find>
+      <find>mainbody</find>
+      <find>smart_unicode</find>
+      <find>print</find>
+      <find>cf</find>
+      <find>fr</find>
+      <find>fl</find>
+      <find>imguser</find>
+      <find>font-w</find>
+      <find>搜索</find>
+      <find>vue</find>
+      <find>font-weight</find>
+      <find>a</find>
+      <find>link</find>
+      <find>inst</find>
+      <find>search_content</find>
+      <find>tuijian</find>
+      <find>.nav</find>
+      <find>schema</find>
+      <find>quchu</find>
+      <find>getmore</find>
+      <find>)</find>
+      <find>main</find>
+      <find>intr</find>
+      <find>tougao</find>
+      <find>publish</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Branch1" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../virEnv/GPapp/lib/python3.4/site-packages/django/contrib/admin/templates/admin/includes/fieldset.html" />
+        <option value="$PROJECT_DIR$/ContentApp/apps.py" />
+        <option value="$PROJECT_DIR$/conf/common.py" />
+        <option value="$PROJECT_DIR$/show/__init__.py" />
+        <option value="$PROJECT_DIR$/show/urls.py" />
+        <option value="$PROJECT_DIR$/z_user/urls.py" />
+        <option value="$PROJECT_DIR$/celery_app/__init__.py" />
+        <option value="$PROJECT_DIR$/model/user/__init__.py" />
+        <option value="$PROJECT_DIR$/common/__init__.py" />
+        <option value="$PROJECT_DIR$/api/__init__.py" />
+        <option value="$PROJECT_DIR$/show/views.py" />
+        <option value="$PROJECT_DIR$/common/mongohelper.py" />
+        <option value="$PROJECT_DIR$/z_user/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/GpApp/urls.py" />
+        <option value="$PROJECT_DIR$/templates/search/search.html" />
+        <option value="$PROJECT_DIR$/ContentApp/whoosh_cn_backend.py" />
+        <option value="$PROJECT_DIR$/templates/search/index.html" />
+        <option value="$PROJECT_DIR$/templates/search/indexes/ContentApp/blog_text.txt" />
+        <option value="$PROJECT_DIR$/templates/content/setting.html" />
+        <option value="$PROJECT_DIR$/templates/topic/topic_detail.html" />
+        <option value="$PROJECT_DIR$/ContentApp/admin.py" />
+        <option value="$PROJECT_DIR$/topic/models.py" />
+        <option value="$PROJECT_DIR$/templates/user/login.html" />
+        <option value="$PROJECT_DIR$/templates/show/luntan.html" />
+        <option value="$PROJECT_DIR$/templates/content/luntan/article.html" />
+        <option value="$PROJECT_DIR$/templates/content/expert/expert_detail.html" />
+        <option value="$PROJECT_DIR$/templates/content/expert/expert.html" />
+        <option value="$PROJECT_DIR$/static/js/index.js" />
+        <option value="$PROJECT_DIR$/templates/books.html" />
+        <option value="$PROJECT_DIR$/templates/content/article_detail.html" />
+        <option value="$PROJECT_DIR$/ContentApp/urls.py" />
+        <option value="$PROJECT_DIR$/templates/content/introduce.html" />
+        <option value="$PROJECT_DIR$/templates/content/books.html" />
+        <option value="$PROJECT_DIR$/templates/content/publish.html" />
+        <option value="$PROJECT_DIR$/templates/user/index.html" />
+        <option value="$PROJECT_DIR$/model/user/login.py" />
+        <option value="$PROJECT_DIR$/GpApp/settings.py" />
+        <option value="$PROJECT_DIR$/z_user/views.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/celery_app/mail.py" />
+        <option value="$PROJECT_DIR$/ContentApp/search_indexes.py" />
+        <option value="$PROJECT_DIR$/ContentApp/signals.py" />
+        <option value="$PROJECT_DIR$/ContentApp/views.py" />
+        <option value="$PROJECT_DIR$/celery_app/tianqi.py" />
+        <option value="$PROJECT_DIR$/celery_app/celery_worker.py" />
+        <option value="$PROJECT_DIR$/celery_app/tasks.py" />
+        <option value="$PROJECT_DIR$/ContentApp/models.py" />
+        <option value="$PROJECT_DIR$/ContentApp/tests.py" />
+        <option value="$PROJECT_DIR$/ContentApp/gj.py" />
+        <option value="$PROJECT_DIR$/celery_app/setup.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.4.4 virtualenv at ~/Documents/virEnv/GPapp &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.4.4 virtualenv at ~/Documents/virEnv/GPapp &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.4.4 virtualenv at ~/Documents/virEnv/GPapp &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="haystack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.4.4 virtualenv at ~/Documents/virEnv/GPapp &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="haystack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="z_user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=" static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="show" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GpApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extra_apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ContentApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="celery_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="settings.editor.selected.configurable" value="RemoteServers" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/zhanlingjie/Documents/mypython/GG/templates/content/introduce.html&#10;.carousel-indicators&#9;null&#9;null" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$/static/img/index" />
+      <recent name="$PROJECT_DIR$/static/js/link" />
+      <recent name="$PROJECT_DIR$/static/img/icon" />
+      <recent name="$PROJECT_DIR$/static/js/publish" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.GG">
+    <configuration default="false" name="tests (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="$PROJECT_DIR$/../../virEnv/GPapp/bin/python" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContentApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GG" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ContentApp/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="apps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/topic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GG" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/topic/apps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gj" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContentApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GG" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ContentApp/gj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server" editBeforeRun="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8020" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://0.0.0.0:8020/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="GpApp" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mail" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/celery_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/celery_app/mail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mongohelper" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/mongohelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="$PROJECT_DIR$/../../virEnv/GPapp/bin/python" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GG" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tests" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GpApp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GG" type="Python.DjangoServer" factoryName="Django server" editBeforeRun="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="GpApp.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GG" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8066" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8066/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Python.mail" />
+      <item index="1" class="java.lang.String" itemvalue="Python.mongohelper" />
+      <item index="2" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tests" />
+      <item index="4" class="java.lang.String" itemvalue="Django server.GG" />
+      <item index="5" class="java.lang.String" itemvalue="Python.tests (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Python.apps" />
+      <item index="7" class="java.lang.String" itemvalue="Python.gj" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.gj" />
+        <item index="1" class="java.lang.String" itemvalue="Python.apps" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tests (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8948c2f-8752-4de7-a874-fc3f5f8b4c7f" name="Default" comment="" />
+      <created>1510881264377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510881264377</updated>
+    </task>
+    <task id="LOCAL-00001" summary="11111111111111111111">
+      <created>1510882910042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510882910042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11111111111111111111">
+      <created>1510886797271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510886797271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="11111111111111111111">
+      <created>1510886951857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510886951857</updated>
+    </task>
+    <task id="LOCAL-00004" summary="11111111111111111111">
+      <created>1510887427181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510887427181</updated>
+    </task>
+    <task id="LOCAL-00005" summary="11111111111111111111">
+      <created>1510887537336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1510887537336</updated>
+    </task>
+    <task id="LOCAL-00006" summary="我爱你">
+      <created>1511143461285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511143461285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v">
+      <created>1511803588286</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511803588286</updated>
+    </task>
+    <task id="LOCAL-00008" summary="# 发表文章api实现">
+      <created>1512111836032</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1512111836032</updated>
+    </task>
+    <task id="LOCAL-00009" summary="# 发表文章api实现">
+      <created>1512348312403</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1512348312403</updated>
+    </task>
+    <task id="LOCAL-00010" summary="# 发表文章api实现">
+      <created>1512488800936</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1512488800936</updated>
+    </task>
+    <task id="LOCAL-00011" summary="# 发表文章api实现">
+      <created>1513153367747</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1513153367747</updated>
+    </task>
+    <task id="LOCAL-00012" summary="# 发表文章api实现">
+      <created>1514448356436</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1514448356436</updated>
+    </task>
+    <task id="LOCAL-00013" summary="# 发表文章api实现">
+      <created>1515135570583</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1515135570583</updated>
+    </task>
+    <task id="LOCAL-00014" summary="# 发表文章api实现">
+      <created>1515660150411</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1515660150412</updated>
+    </task>
+    <task id="LOCAL-00015" summary="# 发表文章api实现">
+      <created>1515718416458</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1515718416459</updated>
+    </task>
+    <task id="LOCAL-00016" summary="# 发表文章api实现">
+      <created>1516155845904</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1516155845904</updated>
+    </task>
+    <task id="LOCAL-00017" summary="# 发表文章api实现">
+      <created>1516672115420</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1516672115420</updated>
+    </task>
+    <task id="LOCAL-00018" summary="# 发表文章api实现">
+      <created>1516772815201</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516772815201</updated>
+    </task>
+    <task id="LOCAL-00019" summary="# 发表文章api实现">
+      <created>1519026829744</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1519026829745</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61566263" sideWeight="0.47711015" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19879518" sideWeight="0.3040057" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55903614" sideWeight="0.795422" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.22650602" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.48497853" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19879518" sideWeight="0.69599426" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29685265" sideWeight="0.49492016" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22389127" sideWeight="0.5050798" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015021459" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.49427754" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.49427754" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61566263" sideWeight="0.47711015" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35421687" sideWeight="0.18669528" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26385543" sideWeight="0.85979974" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.22650602" sideWeight="0.4914163" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.48497853" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35421687" sideWeight="0.8133047" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.49427754" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23819743" sideWeight="0.49492016" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.49713877" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22389127" sideWeight="0.5050798" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015021459" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11111111111111111111" />
+    <MESSAGE value="我爱你" />
+    <MESSAGE value="v" />
+    <MESSAGE value="# 发表文章api实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 发表文章api实现" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ContentApp/urls.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/content/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="93" lean-forward="false" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="211" column="9" lean-forward="false" selection-start-line="211" selection-start-column="9" selection-end-line="211" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="191" column="34" lean-forward="true" selection-start-line="191" selection-start-column="34" selection-end-line="191" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/gj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mongohelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/content/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="93" lean-forward="false" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="211" column="9" lean-forward="false" selection-start-line="211" selection-start-column="9" selection-end-line="211" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2384">
+          <caret line="165" column="11" lean-forward="false" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="73" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/content/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="93" lean-forward="false" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="211" column="9" lean-forward="false" selection-start-line="211" selection-start-column="9" selection-end-line="211" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/gj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2384">
+          <caret line="165" column="11" lean-forward="false" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="73" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/content/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="93" lean-forward="false" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="211" column="9" lean-forward="false" selection-start-line="211" selection-start-column="9" selection-end-line="211" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/content/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="93" lean-forward="false" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/gj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mongohelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../full/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_app/setup.py" />
+    <entry file="file://$PROJECT_DIR$/../../virEnv/GPapp/lib/python3.4/site-packages/django/views/decorators/csrf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="52" column="7" lean-forward="false" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GpApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="217" column="22" lean-forward="false" selection-start-line="217" selection-start-column="22" selection-end-line="217" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2703">
+          <caret line="175" column="8" lean-forward="false" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
