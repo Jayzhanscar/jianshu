@@ -42,7 +42,7 @@ setuptools-scm==1.17.0
 six==1.11.0
 tablib==0.12.1
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 Whoosh==2.7.4
 xlrd==1.1.0
